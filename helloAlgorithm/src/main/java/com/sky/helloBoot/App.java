@@ -12,5 +12,6 @@ public class App {
         ServerSocket serverSocket = new ServerSocket(9999);
 
         System.out.println("Hello World! ");
+        System.out.println("更新1");
     }
 }
