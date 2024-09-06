@@ -13,5 +13,6 @@ public class App {
 
         System.out.println("Hello World! ");
         System.out.println("更新1");
+        System.out.println("更新2");
     }
 }
